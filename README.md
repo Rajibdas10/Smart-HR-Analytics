@@ -28,11 +28,13 @@ In this project, I analyzed and predicted **employee attrition** for large consu
 
 ## 📂 Repository Structure
 
+```plaintext
 ├── HR_capstone_dataset.csv                             # Dataset used for analysis
 ├── Smart HR Analytics executive summary pdf version.pdf  # Executive summary in PDF
 ├── Smart-HR-Analytics Executive Summary.ppt             # Executive summary presentation
 ├── Smart HR Analytics-Employee Attrition Insights in Consulting Firms using Predictive Modeling.ipynb  # Main Jupyter Notebook
 ├── README.md                                           # Project overview (you're here!)
+```
 
 
 ---
