@@ -88,10 +88,8 @@ I’m actively looking for **entry-level opportunities** where I can contribute 
 
 ## 🤝 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
-- **Email**: your-email@example.com
-
+- **Email:** rajibdas10.10.1999@gmail.com
+- **LinkedIn:** [Rajib Das](https://www.linkedin.com/in/rajib-das-4a6063215)
 ---
 
 Let me know if you'd like to add any personal links or additional details!
