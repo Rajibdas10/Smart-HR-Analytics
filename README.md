@@ -75,16 +75,6 @@ In this project, I analyzed and predicted **employee attrition** for large consu
 
 ---
 
-## 🏆 About Me
-
-I am a passionate **data analyst** skilled in Python, SQL, and machine learning, with a focus on delivering impactful solutions. I have completed certifications like:
-
-- Google Advanced Data Analytics
-- Microsoft Power BI Certification (upcoming)
-
-I’m actively looking for **entry-level opportunities** where I can contribute and grow.
-
----
 
 ## 🤝 Connect With Me
 
