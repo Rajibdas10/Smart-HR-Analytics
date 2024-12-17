@@ -47,23 +47,40 @@ In this project, I analyzed and predicted **employee attrition** for large consu
 
 ---
 
+
 ## 📊 How to Run
 
-1. Clone the repository:
+To replicate and run this project locally, follow these steps:
+
+1. **Clone the Repository**  
+   Open a terminal and execute:
    ```bash
-   git clone https://github.com/yourusername/Smart-HR-Analytics.git
+   git clone https://github.com/Rajibdas10/Smart-HR-Analytics.git
    cd Smart-HR-Analytics
    ```
 
-2. Install dependencies:
+2. **Install Dependencies**  
+   Ensure you have Python and the necessary libraries installed. If you don't have them, create a virtual environment and install dependencies:  
    ```bash
-   pip install -r requirements.txt
+   python -m venv venv
+   source venv/bin/activate       # On Windows use: venv\Scripts\activate
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook Smart-HR-Analytics.ipynb
-   ```
+3. **Run the Jupyter Notebook**  
+   - Open Jupyter Notebook from your terminal:
+     ```bash
+     jupyter notebook
+     ```
+   - Navigate to the file:  
+     **`Smart HR Analytics-Employee Attrition Insights in Consulting Firms using Predictive Modeling.ipynb`**  
+     and run the notebook cells step by step.
+
+4. **View the Results**  
+   - The notebook contains all preprocessing steps, visualizations, and model results.
+   - Check insights and key findings displayed as output or in the provided executive summary files.
+
+
 
 ---
 
